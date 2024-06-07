@@ -1,3 +1,3 @@
-## 블로그 포스팅과 커스터마이징 하는 공간입니다. 😀💛
+## 깃허브 블로그 포스팅 연습 중 입니다. 😀💛
 
-<https://ansohxxn.github.io>
+<https://arisu0304.github.io>
